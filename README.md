@@ -11,7 +11,7 @@ you have only one collection User
 ## User Schema
 
     {
-	    first_name: 	String,  
+	    	first_name: 		String,  
 		last_name: 		String,  
 		gender: 		String,  
 		avatar: 		String,  
